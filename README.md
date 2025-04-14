@@ -2,7 +2,7 @@
 Converted to GitHub via [cbt2git](https://github.com/wizardofzos/cbt2git)
 
 This is still a work in progress. 
-Due to amazing work by Alizon Zhang and Jake Choi repos are no longer deleted.
+Due to amazing work by Alison Zhang and Jake Choi repos are no longer deleted.
 
 ```
 //***FILE 029 IS A PROCEDURE TO ENLARGE THE VTOC OF AN ACTIVE       *   FILE 029
